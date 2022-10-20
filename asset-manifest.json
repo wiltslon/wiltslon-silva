@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/wiltslon-silva/static/css/main.073c9b0a.css",
-    "main.js": "/wiltslon-silva/static/js/main.9d133b68.js",
-    "static/js/787.28cb0dcd.chunk.js": "/wiltslon-silva/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/wiltslon-silva/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/wiltslon-silva/static/css/main.e6c13ad2.css",
+    "main.js": "/wiltslon-silva/static/js/main.e33b8a6a.js",
     "index.html": "/wiltslon-silva/index.html",
-    "main.073c9b0a.css.map": "/wiltslon-silva/static/css/main.073c9b0a.css.map",
-    "main.9d133b68.js.map": "/wiltslon-silva/static/js/main.9d133b68.js.map",
-    "787.28cb0dcd.chunk.js.map": "/wiltslon-silva/static/js/787.28cb0dcd.chunk.js.map"
+    "main.e6c13ad2.css.map": "/wiltslon-silva/static/css/main.e6c13ad2.css.map",
+    "main.e33b8a6a.js.map": "/wiltslon-silva/static/js/main.e33b8a6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9d133b68.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e33b8a6a.js"
   ]
 }
