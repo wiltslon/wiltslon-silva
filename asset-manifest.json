@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wiltslon-silva/static/css/main.6789c2b7.css",
-    "main.js": "/wiltslon-silva/static/js/main.e257004a.js",
+    "main.js": "/wiltslon-silva/static/js/main.0737ec1c.js",
     "index.html": "/wiltslon-silva/index.html",
     "main.6789c2b7.css.map": "/wiltslon-silva/static/css/main.6789c2b7.css.map",
-    "main.e257004a.js.map": "/wiltslon-silva/static/js/main.e257004a.js.map"
+    "main.0737ec1c.js.map": "/wiltslon-silva/static/js/main.0737ec1c.js.map"
   },
   "entrypoints": [
     "static/css/main.6789c2b7.css",
-    "static/js/main.e257004a.js"
+    "static/js/main.0737ec1c.js"
   ]
 }
